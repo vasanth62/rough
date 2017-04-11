@@ -1,0 +1,4 @@
+#define MATCH_EXM
+#define MATCH_COUNT 8192
+#define ACTION_INDIRECT
+#define ACTION_COUNT 2048
